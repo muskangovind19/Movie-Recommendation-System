@@ -1,10 +1,9 @@
-# 🎬 Netflix Recommendation System
+# 🎬Movie Recommendation System
 
 <div align="center">
 
 ### Machine Learning Based Content Recommendation Engine
 
-**Developed as a University Project for Vivekananda Global University (VGU)**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Recommendation%20System-green)
@@ -246,29 +245,3 @@ This project helped in understanding:
 - Recommendation Systems
 - Streamlit Development
 - End-to-End Machine Learning Projects
-
----
-
-## 👨‍💻 Developer
-
-**Mukesh Kumar**
-
-B.Tech – Computer Science & Engineering
-
-Vivekananda Global University (VGU)
-
-GitHub: https://github.com/mukeshsharma99
-
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a **Star ⭐** on GitHub.
-
----
-
-<div align="center">
-
-### Made with ❤️ using Python, Machine Learning, and Streamlit
-
-</div>
