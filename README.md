@@ -169,7 +169,7 @@ Netflix-Recommendation-System/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/mukeshsharma99/Netflix-Recommendation-System.git
+git clone https://github.com/muskangovind19/Movie-Recommendation-System.git
 ```
 
 ### Navigate to Project Directory
