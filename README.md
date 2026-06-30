@@ -1,4 +1,4 @@
-# 🎬Movie Recommendation System
+# 🎬 Netflix Recommendation System
 
 <div align="center">
 
@@ -245,3 +245,29 @@ This project helped in understanding:
 - Recommendation Systems
 - Streamlit Development
 - End-to-End Machine Learning Projects
+
+---
+
+## 👨‍💻 Developer
+
+**Mukesh Kumar**
+
+B.Tech – Computer Science & Engineering
+
+Vivekananda Global University (VGU)
+
+GitHub: https://github.com/mukeshsharma99
+
+---
+
+## ⭐ Support
+
+If you found this project useful, please consider giving it a **Star ⭐** on GitHub.
+
+---
+
+<div align="center">
+
+### Made with ❤️ using Python, Machine Learning, and Streamlit
+
+</div>
